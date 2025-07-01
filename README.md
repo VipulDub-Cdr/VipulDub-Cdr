@@ -21,5 +21,3 @@ Reach me at vipuldubey041@gmail.com — always open to connect, collaborate, or 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vipuldub-cdr&show_icons=true&locale=en&layout=compact" alt="vipuldub-cdr" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vipuldub-cdr&show_icons=true&locale=en" alt="vipuldub-cdr" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vipuldub-cdr&" alt="vipuldub-cdr" /></p>
