@@ -1,13 +1,12 @@
-<h1 align="center">Hey, I'm Vipul Dubey</h1>
-<h3 align="center">MERN Stack Developer | Building Scalable Web Apps | Exploring Cloud, DevOps & AI Technologies</h3>
+<h1>Hey, I'm Vipul Dubey</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vipuldub-cdr&label=Profile%20views&color=0e75b6&style=flat" alt="vipuldub-cdr" /> </p>
 
-- 🌱 I’m currently learning **Generative AI, Agentic AI, DevOps**
+I’m currently diving deep into Generative AI, exploring the future of Agentic AI, and building strong foundations in DevOps.
 
-- 💬 Ask me about **React.js, Node.js, Express.js**
+Comfortable working with the MERN Stack — especially React.js, Node.js, and Express.js. Feel free to ask me anything!
 
-- 📫 How to reach me **vipuldubey041@gmail.com**
+Reach me at vipuldubey041@gmail.com — always open to connect, collaborate, or chat tech.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
