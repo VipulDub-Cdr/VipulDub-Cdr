@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vipul Dubey</h1>
+<h1>Hey, I'm Vipul Dubey</h1>
 <h3 align="center">MERN Stack Developer | Building Scalable Web Apps | Exploring Cloud, DevOps & AI Technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vipuldub-cdr&label=Profile%20views&color=0e75b6&style=flat" alt="vipuldub-cdr" /> </p>
