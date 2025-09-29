@@ -82,7 +82,7 @@ Gmail: vipuldubey041@gmai.com
 <br>
 
 
-<div style="display: flex; justify-content: center; align-items: center; height: 60px;">
+<div style="display: flex; justify-content: center; align-items: center; height: 100px;">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50" height="50" alt="gif">
   <b style="margin-left: 8px; font-size:30px">Github Stats</b>
 </div>
