@@ -27,12 +27,10 @@ Gmail: vipuldubey041@gmai.com
 
 ##  About me
 
-- Hi, I’m Vipul Dubey: A CSE student passionate about building efficient, scalable, and intelligent systems.
-- Full-Stack Development: Skilled in React, Node.js, PostgreSQL for creating impactful web applications.
-- Automation & Innovation: Focused on leveraging emerging technologies to design practical solutions.
-- Automation & Innovation: Focused on leveraging emerging technologies to design practical solutions
+- Hi, I’m Vipul Dubey, a CSE student passionate about building efficient, scalable, and intelligent systems.
+- I am skilled in React, Node.js, and PostgreSQL for creating impactful web applications.
+- I am focused on leveraging emerging technologies to design practical solutions.
 - Feel free to explore my portfolio [link](https://vipuldubey.vercel.app)
-.
 
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br> -->
 
@@ -76,16 +74,6 @@ Gmail: vipuldubey041@gmai.com
 
 
 
------
-
-<br>
-<br>
-
-
-<div style="display: flex; justify-content: center; align-items: center; height: 100px;">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50" height="50" alt="gif">
-  <b style="margin-left: 8px; font-size:30px">Github Stats</b>
-</div>
 
 <br>
 
