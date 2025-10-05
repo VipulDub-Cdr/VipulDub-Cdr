@@ -84,15 +84,6 @@ Gmail: vipuldubey041@gmai.com
 ![VipulDub-Cdr's Stats](https://github-readme-stats.vercel.app/api?username=VipulDub-Cdr&theme=dark&show_icons=true&hide_border=true&count_private=false)
 
 </div>
- 
- ### Github Streak
- <hr>
- <br>
- <div align=center>
-  
-![VipulDub-Cdr's Streak](https://github-readme-streak-stats.herokuapp.com/?user=VipulDub-Cdr&theme=dark&hide_border=true)
-  
- </div>
 
 ### Most Used Language
 <hr>
